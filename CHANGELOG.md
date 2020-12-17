@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## 0.0.1 - December 17 2020
 
-* TODO: Describe initial release.
+* Added my super trolled library functions
+* Encryption works
