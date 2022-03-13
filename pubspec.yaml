@@ -1,11 +1,10 @@
 name: caesar_salad
 description: A Caesar chipher library with 0% security in it and 100% trolliness.
-version: 0.0.1
-author:
-homepage:
+version: 0.0.1+3
+shomepage:
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0 <2.0.0"
 
 dependencies:
